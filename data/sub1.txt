@@ -1,0 +1,10 @@
+This is the seventh instalment in a series of C++ programming tutorials that started here.
+
+Introduction
+
+If you think back to the initiation of the scheck project, you may remember that your boss indicated that the output of the program should be in CSV format, with maybe XML needed later. Well, today when you came into work, the following email was waiting for you:
+
+We need to go ahead with producing XML output. Just create an XHTML table for now. Oh, and it seems that the guys in the Amsterdam office may want JSON output at some time in the future. This should all be selectable from the command line.
+
+As it happens, the reporting entity was the next in complexity in the original project plan, so it makes sense to look at that now.
+
